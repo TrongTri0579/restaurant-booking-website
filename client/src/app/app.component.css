@@ -1,0 +1,10 @@
+/* styles.css hoặc app.component.css */
+.dark-theme {
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
+
+.light-theme {
+  background-color: #ffffff;
+  color: #333333;
+}
